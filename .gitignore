@@ -1,0 +1,5 @@
+# Stuff that shouldn't be tracked.
+
+*.a
+*.DS_Store
+*.DS_Store?
